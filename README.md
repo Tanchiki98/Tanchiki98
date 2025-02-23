@@ -1,7 +1,7 @@
 👋Hello There!!!
 Tanchiki98 is here.
 My Properties:
-```
+```js
 const person = {
   userName: "Tanchiki98",
   realName: "George Knowles",
